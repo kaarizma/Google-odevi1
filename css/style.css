@@ -1,0 +1,63 @@
+.ortala{
+    text-align: center;
+}
+
+.links{
+    margin: 0 auto;
+}
+
+.search{
+    background-color: #EEEEEE;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-top: 2px;
+    margin-bottom: 3px;
+}
+
+.text {
+    width: 300px;
+}
+
+.w-90{
+    width: 90%;
+}
+
+.f-left{
+    float: left;
+}
+
+.card1{
+    background-color: rgb(126, 229, 218); 
+    width: 37%;
+    margin-right: 0.2%;
+    height: 115px;
+}
+
+.card1-content{
+    margin-top: 30px;
+}
+
+.card2{
+    background-color: rgb(112, 204, 194);
+    width: 29%;
+    margin-right: 0.2%;
+    height: 115px;
+}
+
+.card3{
+    background-color: rgb(98, 179, 170);
+    width: 33.6%;
+    height: 115px;
+}    
+
+.card3-content{
+    margin-top: 10px;
+}
+
+.fs-small{
+    font-size: small;
+}
+
+.clear{
+    clear: both;
+}
